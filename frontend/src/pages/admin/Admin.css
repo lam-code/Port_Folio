@@ -1,0 +1,23 @@
+.connexion{
+    height: 50px;
+    padding: 140px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+   
+}
+.formlogin{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+}
+.formlogin > label {
+    margin: 10px 0;
+}
+.loginButton{
+    margin-top: 20px;
+    cursor: pointer;
+    background-color: tomato;
+    border: none;
+}

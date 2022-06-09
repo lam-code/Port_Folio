@@ -1,0 +1,7 @@
+img{
+    margin: 40px 70px 25px 120px;
+    display: flex;
+    justify-content: center;
+    width: 70%;
+    height: 70%;
+}
